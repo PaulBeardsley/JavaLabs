@@ -16,7 +16,7 @@ public class Hoover implements Vacuumable {
 	public void setStrength(int strength) {
 		this.strength = strength;
 	}
-	public int getStrenght() {
+	public int getStrength() {
 		return this.strength;
 	}
 	public boolean isPowerOn() {
